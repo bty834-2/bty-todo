@@ -1,8 +1,12 @@
 # 待办事项应用 (bty-todo)
 一个基于 Tauri 2 框架的待办事项管理应用，支持四种优先级分类、提醒功能和双视图展示。
 
-## QuickStart
-在Trae IDE中用MiniMax-M2.7编写，mac app位于output文件夹下，直接下载安装即可。
+![1](img/1.png)
+
+![2](img/2.png)
+
+![3](img/3.png)
+
 
 ## 功能特性
 
