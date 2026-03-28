@@ -3,7 +3,7 @@
 # 待办事项应用 (bty-todo)
 一个基于 Tauri 2 框架的待办事项管理应用，支持四种优先级分类、提醒功能和双视图展示。
 
-release : [dmg](https://github.com/bty834-2/bty-todo/releases/download/v1/bty-todo.dmg)
+[Release](https://github.com/bty834-2/bty-todo/releases/tag/v1)
 
 ![1](img/1.png)
 
