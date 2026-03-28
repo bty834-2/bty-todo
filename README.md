@@ -1,3 +1,5 @@
+项目代码和文字都是在Trae IDE中使用MiniMax-M2.7模型 vibe coding出来的；图标是在Figma中下载的；
+
 # 待办事项应用 (bty-todo)
 一个基于 Tauri 2 框架的待办事项管理应用，支持四种优先级分类、提醒功能和双视图展示。
 
